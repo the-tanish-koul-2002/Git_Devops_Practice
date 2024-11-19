@@ -5,3 +5,4 @@ so far I have learned
 1. Basics
 2. Commands - add , merge , init, checkout, switch , push , pull
 3. Branching 
+4. Hooks
